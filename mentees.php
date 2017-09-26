@@ -650,7 +650,11 @@ Plus I’d like to know how they got started in this field and if special qualif
                             <?php  if ($resbusiness == '21') {echo ' <option value="21" selected="selected" >Digital – Payments & Cards</option>';}  else { echo '<option value="21">Digital – Payments & Cards</option>';}?>
                             <?php  if ($resbusiness == '22') {echo ' <option value="22" selected="selected" >Digital – Programmes</option>';}  else { echo '<option value="22">Digital – Programmes</option>';}?>
 
-                            <?php  if ($resbusiness == '35') {echo ' <option value="35" selected="selected" >FSG Operations</option>';}  else { echo '<option value="35">FSG Operations</option>';}?>
+                            <?php  if ($resbusiness == '35') {echo ' <option value="35" selected="selected" >FSG - Business Services</option>';}  else { echo '<option value="35">FSG - Business Services</option>';}?>
+							 <?php  if ($resbusiness == '55') {echo ' <option value="55" selected="selected" >FSG - Strategic Implementation Unit</option>';}  else { echo '<option value="55">FSG - Strategic Implementation Unit</option>';}?>
+							 <?php  if ($resbusiness == '56') {echo ' <option value="56" selected="selected" >FSG - Customer Management</option>';}  else { echo '<option value="56">FSG - Customer Management</option>';}?>
+							 <?php  if ($resbusiness == '57') {echo ' <option value="57" selected="selected" >FSG - FSG - Loan Recovery</option>';}  else { echo '<option value="57">FSG - Loan Recovery</option>';}?>
+							 <?php  if ($resbusiness == '58') {echo ' <option value="58" selected="selected" >FSG - Portfolio Management</option>';}  else { echo '<option value="58">FSG - Portfolio Management</option>';}?>
 
 
                             <?php  if ($resbusiness == '24') {echo ' <option value="24" selected="selected" >GTS – Office of the CIO</option>';}  else { echo '<option value="24">GTS – Office of the CIO</option>';}?>
@@ -677,6 +681,10 @@ Plus I’d like to know how they got started in this field and if special qualif
 <?php  if ($resbusiness == '48') {echo ' <option value="48" selected="selected" >RACC - Case management Resolutions</option>';}  else { echo '<option value="48">RACC - Case management Resolutions</option>';}?>
 <?php  if ($resbusiness == '49') {echo ' <option value="49" selected="selected" >RACC - Retail Resolutions</option>';}  else { echo '<option value="49">RACC - Retail Resolutions</option>';}?>
 <?php  if ($resbusiness == '50') {echo ' <option value="50" selected="selected" >RACC - Strategy & Assurance</option>';}  else { echo '<option value="50">RACC - Strategy & Assurance</option>';}?>
+
+<?php  if ($resbusiness == '59') {echo ' <option value="59" selected="selected" >RCB - Business Transformation & Governance</option>';}  else { echo '<option value="59">RCB - Business Transformation & Governance</option>';}?>
+<?php  if ($resbusiness == '60') {echo ' <option value="60" selected="selected" >RCB – Private Banking</option>';}  else { echo '<option value="60">RCB – Private Banking</option>';}?>
+<?php  if ($resbusiness == '61') {echo ' <option value="61" selected="selected" >RCB - Local Market: Kerry</option>';}  else { echo '<option value="61">RCB - Local Market: Kerry</option>';}?>
 
 
  <?php  if ($resbusiness == '36') {echo ' <option value="36" selected="selected" >Risk - Financial Risk</option>';}  else { echo '<option value="36">Risk - Financial Risk</option>';}?>
